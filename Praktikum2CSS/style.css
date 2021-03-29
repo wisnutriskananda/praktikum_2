@@ -7,14 +7,15 @@
 }
 body{
     font-family: 'New Tegomin', sans-serif;
-    color: #4e4e4e;
+    color: #603ff0;
     font-size: 16pt;
-    background-color:rgb(100, 149, 237)
+    background-color:rgb(0, 6, 17)
 }
 header{
-    color: #6495ED;
+    color: #010611;
     font-size: 24pt;
     padding: 20px;
+    background-color:rgb(78, 139, 245)
 }
 footer{
     color: rgb(100, 149, 237);
